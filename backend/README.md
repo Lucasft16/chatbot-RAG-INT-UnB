@@ -131,8 +131,7 @@ correção fixada por um teste de regressão.
 - **Rate limits do tier gratuito do Gemini**: ~100 embeddings/min e ~1000/dia (quotas vêm sendo
   reduzidas em 2026). A ingestão trata isso com lotes, retry com backoff e *checkpoint* — retoma
   no dia seguinte sem reprocessar. Sites grandes podem levar alguns dias para indexar por completo.
-- O **`chroma_db/` é comitado no repositório** pelo workflow de re-scraping (escolha consciente
-  para portfólio; o repo cresce ao longo do tempo).
+- O **`chroma_db/` é comitado no repositório** pelo workflow de re-scraping.
 - **Privacidade**: tiers gratuitos podem usar prompts para treino. Como o conteúdo é público
   (site institucional), não é bloqueio, mas fica registrado como decisão consciente.
 - Responde **somente em português**, ignorando as versões EN/ES/FR do site.

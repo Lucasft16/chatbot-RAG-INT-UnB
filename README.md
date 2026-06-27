@@ -103,14 +103,6 @@ cp .env.example .env          # ajuste VITE_API_URL se o backend não estiver em
 npm run dev                   # http://localhost:5173
 ```
 
-### Via Docker (backend)
-
-```bash
-cd backend
-docker build -t int-chatbot .
-docker run -p 8000:8000 -e GEMINI_API_KEY=sua_chave int-chatbot
-```
-
 ## Avaliação
 
 O sistema é avaliado por um conjunto de **20 perguntas em 5 categorias** (diretas, multi-fonte,
@@ -150,6 +142,6 @@ volta no repositório. Requer o secret **`GEMINI_API_KEY`** configurado em
 - **Editais em PDF escaneado**: os editais do INT são imagens sem camada de texto, então não são
   lidos por extração de texto — a base usa o HTML de cada edital (que já traz o essencial). OCR fica
   como evolução futura.
-- O `chroma_db/` é comitado no repositório (escolha consciente para portfólio; ver `CONTEXTO_PROJETO.md`).
+- O `chroma_db/` é comitado no repositório.
 
 Mais detalhes em [`backend/README.md`](backend/README.md).
