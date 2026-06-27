@@ -10,9 +10,9 @@ GitHub Actions.
 ## Arquitetura
 
 ```
-Site INT (int.unb.br/*) → Scraping (HTML + PDFs) → Limpeza → Chunking →
+Site INT (int.unb.br/*) → Scraping (HTML) → Limpeza → Chunking →
 Embeddings (Gemini) → Vector Store (ChromaDB) →
-[pergunta] → Retrieval (top-k) → Prompt + LLM (Gemini) → Resposta
+[pergunta] → Retrieval (top-k) → Prompt + LLM (Gemini) → Resposta + fontes
 ```
 
 ## Por que RAG (e não fine-tuning)
@@ -41,11 +41,13 @@ src/
 ├── llm_retry.py  # rate limit / cota do Gemini (compartilhado entre embed e geração)
 └── config.py
 scripts/run_pipeline.py        # orquestra coleta → chunk → embed → index (retomável)
+scripts/run_eval.py            # roda o conjunto de avaliação (gera resultados.md/.json)
 scripts/analyze_crawl.py       # diagnóstico do crawl (categorias e nº de chunks; sem cota)
 data/raw/                      # cache das páginas coletadas (crawl único, gitignored)
-.github/workflows/rescrape.yml # re-scraping periódico
-tests/eval/perguntas_teste.md  # conjunto de avaliação
+tests/eval/                    # conjunto de avaliação (perguntas_teste.md) + resultados
 ```
+
+> O re-scraping periódico (`.github/workflows/rescrape.yml`) fica na raiz do monorepo.
 
 ## Como rodar localmente
 
