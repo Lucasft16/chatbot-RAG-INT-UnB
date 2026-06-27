@@ -1,0 +1,310 @@
+[
+  {
+    "status": "✅",
+    "avaliacao": "Fiel ao FAQ 867 (editais 2x/ano, CEPE 15/2023, duração, custos).",
+    "id": "A1",
+    "category": "A. Perguntas diretas (recuperação básica, uma página)",
+    "question": "Como funciona o programa de intercâmbio de graduação?",
+    "expected": "FAQ #867",
+    "answer": "O programa de intercâmbio de graduação da UnB funciona da seguinte forma:\n\n1.  **Acordos e Vagas:** A UnB possui acordos com universidades estrangeiras para mobilidade acadêmica. A Secretaria de Assuntos Internacionais (INT) consulta essas universidades para verificar a quantidade de vagas e outras informações necessárias.\n2.  **Editais de Seleção:** Após conhecer as vagas, a INT lança editais de seleção de estudantes de graduação para intercâmbio nas universidades parceiras. Esses editais são divulgados na aba \"Seleções\" do site da INT e são lançados duas vezes ao ano: um no começo (para mobilidade no semestre de agosto-dezembro) e outro no meio do ano (para mobilidade entre janeiro-julho do ano seguinte). É possível consultar editais passados para conhecer os critérios de seleção.\n3.  **Objetivo e Duração:** O objetivo do intercâmbio é dar prosseguimento ao curso no exterior, com o aluno cursando disciplinas na instituição parceira que, após seu retorno, podem ser reconhecidas na UnB conforme a Resolução CEPE 15/2023. A duração é de um semestre letivo, com possibilidade de prorrogação por igual período em casos excepcionais e acordados com a parceira. Não há a possibilidade de conclusão do curso no exterior.\n4.  **Aspectos Financeiros:** Nos editais da INT não há oferta de auxílio financeiro. O estudante fica isento das taxas acadêmicas (como mensalidades), mas é responsável por arcar com alimentação, moradia e passagens. A universidade anfitriã pode, eventualmente, oferecer algum tipo de bolsa.\n5.  **Outras Oportunidades:** Além dos editais, a INT divulga oportunidades de estudo no exterior que são de seu conhecimento em suas redes sociais (@UnBINT no Facebook e @INTUnBoficial no Instagram).\n\nVale ressaltar que, embora o site da INT contenha a relação de todos os acordos em vigor, nem toda universidade parceira oferece vagas para intercâmbio.",
+    "sources": [
+      "https://int.unb.br/br/institucional/faq/867-como-funciona-o-programa-de-intercambio-de-graduacao",
+      "https://int.unb.br/br/institucional/faq/868-como-funciona-o-programa-de-intercambio-de-pos-graduacao",
+      "https://int.unb.br/br/estudante-unb/a-mobilidade-academica",
+      "https://int.unb.br/br/estude-na-unb/mobilidade-academica",
+      "https://int.unb.br/br/institucional/faq"
+    ]
+  },
+  {
+    "status": "✅",
+    "avaliacao": "Pós-graduação correta; não misturou com a página de graduação (FAQ 868).",
+    "id": "A2",
+    "category": "A. Perguntas diretas (recuperação básica, uma página)",
+    "question": "Como funciona o programa de intercâmbio de pós-graduação?",
+    "expected": "FAQ #868",
+    "answer": "O programa de intercâmbio para estudantes de pós-graduação (mestrado ou doutorado) na UnB funciona da seguinte forma:\n\n*   A Secretaria de Assuntos Internacionais (INT) da UnB não lança editais para mobilidade de pós-graduação. Os editais da INT são voltados para a mobilidade de graduação.\n*   O estudante de pós-graduação deve entrar em contato diretamente com a universidade de interesse, escolhendo entre as instituições parceiras da UnB.\n*   É necessário verificar os requisitos exigidos pela universidade estrangeira para ser admitido.\n*   A INT auxilia na preparação e envio de documentos como nomeação, candidatura e histórico escolar, entre outros.\n*   A relação de universidades conveniadas está disponível na seção de parcerias internacionais do site da INT.\n\nAlém disso, existe a opção de **cotutela**, que permite realizar parte da mobilidade em uma universidade estrangeira e obter um duplo diploma (da UnB e da instituição parceira). Para essa modalidade, o contato deve ser feito com o Decanato de Pós-Graduação (DPG).\n\nProgramas específicos, como o ELAP (Emerging Leaders in the Americas Program), também seguem essa lógica, onde o estudante de pós-graduação da UnB precisa primeiro ser aceito por uma universidade canadense parceira para poder pleitear a bolsa.",
+    "sources": [
+      "https://int.unb.br/br/institucional/faq/868-como-funciona-o-programa-de-intercambio-de-pos-graduacao",
+      "https://int.unb.br/br/estudante-unb/a-mobilidade-academica",
+      "https://int.unb.br/br/institucional/faq/867-como-funciona-o-programa-de-intercambio-de-graduacao",
+      "https://int.unb.br/br/estude-na-unb/mobilidade-academica",
+      "https://int.unb.br/br/institucional/faq/874-o-que-e-e-como-funciona-o-programa-elap-de-pos-graduacao"
+    ]
+  },
+  {
+    "status": "✅",
+    "avaliacao": "Programas com bolsa objetivos e fundamentados (Santander, Erasmus, Brafitec, ELAP).",
+    "id": "A3",
+    "category": "A. Perguntas diretas (recuperação básica, uma página)",
+    "question": "Há algum programa de mobilidade com bolsa?",
+    "expected": "FAQ #869",
+    "answer": "Sim, a UnB, por meio da Secretaria de Assuntos Internacionais (INT), tem programas de mobilidade que oferecem bolsas:\n\n*   **Bolsas Santander**:\n    *   É um programa de bolsas ofertado regularmente pelo Banco Santander, que inclui o Íbero-Americana, o da China e o Luso-Brasileiras (este último com edições anteriores voltadas para o intercâmbio entre Brasil e Portugal).\n    *   A UnB tem sido convidada para as bolsas Íbero-Americanas.\n    *   As bolsas do Santander são geralmente divulgadas em edital específico pela INT/UnB, no segundo semestre de cada ano, mas a seleção pode ter o cronograma alterado.\n    *   Em alguns casos, o estudante se candidata diretamente na plataforma do Santander Open Academy.\n    *   É importante notar que se trata de uma ajuda de custo, que pode não ser suficiente para bancar toda a estadia.\n\n*   **Programa Erasmus**:\n    *   Oferece bolsas de mobilidade acadêmica entre países da União Europeia.\n    *   Eventualmente, instituições fora do bloco, como a UnB, são convidadas a participar. Não é possível saber previamente para quais programas a UnB será convidada ou quais serão os requisitos.\n    *   A mobilidade não se limita a estudantes, podendo ser estendida para professores e servidores.\n    *   A UnB foi convidada em 2021 para programas Erasmus na Itália (Sapienza), Espanha (Cartagena) e Grécia (Creta).\n    *   Os interessados devem acompanhar a página da INT para saber sobre novas oportunidades.\n\n*   **CAPES/BRAFITEC**:\n    *   É um programa da CAPES que financia projetos entre universidades brasileiras e francesas na área de Engenharia.\n    *   Os programas ocorrem por meio de editais da CAPES, nos quais professores de Engenharia apresentam projetos. Após a aprovação do projeto, os participantes da mobilidade são selecionados.\n    *   O programa prevê recursos para missões de trabalho e bolsas de graduação-sanduíche.\n\n*   **ELAP (Emerging Leaders in the Americas Program)**:\n    *   É um programa do governo do Canadá que oferece bolsas a estudantes não canadenses aceitos para estudar em universidades canadenses.\n    *   Para pleitear a bolsa ELAP, o estudante da UnB precisa primeiro ter sido aceito por uma instituição canadense, o que ocorre após seleção em editais de intercâmbio publicados pela INT (geralmente em dezembro para alunos de graduação).\n\nPara saber sobre a abertura de novas seleções ou oportunidades, o interessado deve acompanhar sempre a página da INT.",
+    "sources": [
+      "https://int.unb.br/br/institucional/faq/869-ha-alguma-programa-de-mobilidade-com-bolsa",
+      "https://int.unb.br/br/estudante-unb/1-estude-no-exterior",
+      "https://int.unb.br/br/institucional/faq/875-o-que-e-e-como-funciona-o-programa-erasmus",
+      "https://int.unb.br/br/selecoes-int/externas/184-convocacoes/685-o-programa-de-bolsas-luso-brasileiras-2016"
+    ]
+  },
+  {
+    "status": "✅",
+    "avaliacao": "FIEL: a própria FAQ 872 diz que os critérios variam por edital; não inventou critérios.",
+    "id": "A4",
+    "category": "A. Perguntas diretas (recuperação básica, uma página)",
+    "question": "Quais são os critérios de seleção nos editais da INT?",
+    "expected": "FAQ #872",
+    "answer": "Os critérios de seleção nos editais da INT variam, pois cada edital é único e podem ocorrer mudanças de um para outro.\n\nA INT não pode informar concretamente sobre os critérios de pontuação devido a essa variação. No entanto, você pode consultar editais passados como base para os futuros.\n\nRecomenda-se que, quando as inscrições estiverem abertas, você envie toda a documentação que julgar necessária e aguarde o posicionamento da banca. Se houver alguma controvérsia, haverá tempo hábil para recurso.",
+    "sources": [
+      "https://int.unb.br/br/institucional/faq/872-quais-sao-os-criterios-de-selecao-nos-editais-da-int",
+      "https://int.unb.br/br/selecoes-int/abertas/1018-selecao-para-o-programa-de-gestao-e-desempenho-pgd-dos-servidores-da-int",
+      "https://int.unb.br/br/selecoes-int/convencerradas/1021-edital-int-1-2026",
+      "https://int.unb.br/br/selecoes-int/convencerradas/854-edital-conjunto-int-dpg-001-2021",
+      "https://int.unb.br/br/institucional/atividades-int/1011-atividades-do-julho-setembro-2024",
+      "https://int.unb.br/br/estudante-unb/a-mobilidade-academica"
+    ]
+  },
+  {
+    "status": "✅",
+    "avaliacao": "Erasmus bem descrito e diferenciado de outros programas; sem confundir com ELAP/Globalink.",
+    "id": "A5",
+    "category": "A. Perguntas diretas (recuperação básica, uma página)",
+    "question": "O que é e como funciona o programa Erasmus?",
+    "expected": "FAQ #875",
+    "answer": "O Programa Erasmus é um programa de bolsas de mobilidade acadêmica da União Europeia (UE) para educação, formação e juventude. Desde 2015, o Erasmus+ expandiu-se para além da Europa, permitindo parcerias e mobilidade acadêmica com universidades de países não europeus, como Brasil, Estados Unidos e Japão.\n\n**Como funciona:**\n*   **Convites e Acordos:** Embora seja um programa entre países da União Europeia, instituições de fora do bloco podem ser convidadas a participar. Para que estudantes da UnB possam pleitear bolsas Erasmus, é necessário que uma universidade da UE firme acordos de cooperação, estabelecendo as condições da bolsa.\n*   **Editais da INT:** Quando a UnB é convidada a estabelecer uma parceria, a Secretaria de Assuntos Internacionais (INT) divulga editais para acesso às bolsas. O interessado deve acompanhar a página da INT para saber se alguma oportunidade foi divulgada.\n*   **Mobilidade:** A mobilidade não está limitada somente a alunos e pode ser estendida para professores e servidores da instituição. Cada programa Erasmus é único e possui suas próprias regras.\n*   **Participação da UnB:** Em 2021, a UnB foi convidada para participar de três programas Erasmus: Sapienza (Itália), Cartagena (Espanha) e Creta (Grécia). Os processos estavam em andamento e a INT esperava lançar editais futuramente.",
+    "sources": [
+      "https://int.unb.br/br/institucional/faq/875-o-que-e-e-como-funciona-o-programa-erasmus",
+      "https://int.unb.br/br/estudante-unb/1-estude-no-exterior",
+      "https://int.unb.br/br/institucional/faq",
+      "https://int.unb.br/br/selecoes-int/externas/184-convocacoes/690-o-programa-de-bolsas-ibero-americanas-2017"
+    ]
+  },
+  {
+    "status": "✅",
+    "avaliacao": "Revalidação → SAA/Seção de Revalidação (telefone, rrde.unb.br); não confundiu com transferência (#871). Vazava \"O Trecho 1...\" em prosa — removido pelo pós-processamento.",
+    "id": "A6",
+    "category": "A. Perguntas diretas (recuperação básica, uma página)",
+    "question": "Como faço para revalidar meu diploma do exterior na UnB?",
+    "expected": "FAQ #895",
+    "answer": "Para revalidar seu diploma do exterior na UnB, o setor responsável é a Secretaria de Administração Acadêmica (SAA). Você pode entrar em contato com a Seção de Revalidação de Diplomas da SAA pelos seguintes canais:\n\n*   **Telefones:** (61) 3107-3731\n*   **Site:** [rrde.unb.br](https://rrde.unb.br/)\n\nVocê precisa do JavaScript ativado para vê-lo.\". Recomenda-se acessar o site ou ligar para obter o e-mail completo.",
+    "sources": [
+      "https://int.unb.br/br/institucional/faq/895-como-faco-para-revalidar-meu-diploma-do-exterior-na-unb",
+      "https://int.unb.br/br/institucional/faq",
+      "https://int.unb.br/br/institucional/faq/877-como-transformo-meus-creditos-em-ects",
+      "https://int.unb.br/br/estudante-unb/1-estude-no-exterior",
+      "https://int.unb.br/br/estude-na-unb/refugiados"
+    ]
+  },
+  {
+    "status": "✅",
+    "avaliacao": "ECTS reconhecido como termo técnico; conversão detalhada e fiel ao FAQ 877.",
+    "id": "A7",
+    "category": "A. Perguntas diretas (recuperação básica, uma página)",
+    "question": "Como transformo meus créditos em ECTS?",
+    "expected": "FAQ #877",
+    "answer": "É difícil conseguir uma fórmula exata para a conversão de créditos da UnB para créditos ECTS, pois os dois sistemas são bastante diferentes.\n\nVeja os principais pontos:\n\n*   **Diferença de cálculo:** No currículo antigo da UnB (antes da migração para o SIGAA), os créditos consideravam as horas de Teoria (T), Prática (P) e Extensão (Ex), sem incluir horas de estudos fora de sala de aula (Est). Já os créditos ECTS levam em conta todas essas horas (T + P + Ex + Est). Isso significa que uma disciplina de 4 créditos na UnB pode equivaler a 6 ou 8 ECTS, dependendo das horas de Est.\n*   **Carga horária por crédito:** Na UnB, cada crédito equivalia a 15 horas (prática e teórica, sem considerar estudos fora de sala). No sistema europeu, os alunos geralmente fazem 60 créditos por ano (30 por semestre), mas a carga horária de cada crédito ECTS pode variar entre 25 e 30 horas, dependendo do curso.\n*   **Situação atual da UnB:** Desde o semestre 1/2020, com a migração para o SIGAA, as disciplinas da UnB são computadas em horas, não mais em créditos no regime antigo. Para saber a carga horária total de seus créditos antigos, você pode multiplicar o total de créditos feitos na UnB por 15.\n*   **Recomendação:** A orientação é que você entregue seu diploma e o total de horas feitas na UnB (que correspondem apenas às horas de sala de aula) diretamente à universidade de destino. Será essa universidade quem avaliará a conversão para ECTS e decidirá se aceitará ou não seu diploma.",
+    "sources": [
+      "https://int.unb.br/br/institucional/faq/877-como-transformo-meus-creditos-em-ects",
+      "https://int.unb.br/br/institucional/faq",
+      "https://int.unb.br/br/institucional/faq/876-como-transformo-meu-ira-em-gpa",
+      "https://int.unb.br/br/institucional/faq/871-como-faco-para-transferir-meu-curso-para-uma-universidade-do-exterior"
+    ]
+  },
+  {
+    "status": "✅",
+    "avaliacao": "GPA via regra de três; não confundiu com a conversão de ECTS (discriminação fina ok).",
+    "id": "A8",
+    "category": "A. Perguntas diretas (recuperação básica, uma página)",
+    "question": "Como transformo meu IRA em GPA?",
+    "expected": "FAQ #876",
+    "answer": "Nas universidades do exterior, geralmente é usado o GPA (Grade Point Average). Não há uma fórmula exata para transformar o IRA em GPA, mas você pode aplicar uma regra de três simples.\n\nPor exemplo: se o GPA na universidade de destino for 10 e seu IRA for 3,5 (de um total de 5), basta multiplicar por 2, resultando em um GPA de 7,0.",
+    "sources": [
+      "https://int.unb.br/br/institucional/faq/876-como-transformo-meu-ira-em-gpa",
+      "https://int.unb.br/br/institucional/faq",
+      "https://int.unb.br/br/institucional/faq/888-explicacao-ira-e-sistema-de-notas-em-lingua-inglesa",
+      "https://int.unb.br/br/184-convocacoes/686-programa-de-jovens-lideres-ibero-americanos-jovenes-lideres-iberoamericanos-xiv-a-edicao"
+    ]
+  },
+  {
+    "status": "✅",
+    "avaliacao": "Distinção cotutela × dupla diplomação correta, sintetizada de várias fontes.",
+    "id": "B1",
+    "category": "B. Perguntas multi-fonte (juntar páginas diferentes)",
+    "question": "Qual a diferença entre cotutela e dupla diplomação?",
+    "expected": "Cotutela + Dupla Diplomação",
+    "answer": "Ambas as modalidades permitem que o estudante obtenha dupla titulação, ou seja, diplomas tanto da UnB quanto de uma instituição parceira estrangeira. No entanto, existem diferenças importantes:\n\n*   **Dupla Diplomação / Diplomação Múltipla:**\n    *   Permite que o estudante curse parte do seu curso em uma instituição estrangeira e receba dois diplomas (da UnB e da parceira).\n    *   Pode ser concedida tanto para cursos de **graduação** quanto de **pós-graduação**.\n    *   A UnB possui acordos específicos para esta modalidade, incluindo programas de mestrado já estabelecidos.\n\n*   **Cotutela:**\n    *   É uma modalidade exclusiva para estudantes de **pós-graduação *stricto sensu*** (Mestrado ou Doutorado).\n    *   A obtenção do duplo diploma ocorre por meio da **coorientação da dissertação ou tese** por um professor de uma instituição estrangeira.\n    *   A proposição de cotutela se transforma em um acordo específico assinado entre a UnB e a instituição estrangeira para o estudante.\n    *   Estudantes de pós-graduação, individualmente, podem pleitear o duplo diploma por meio da cotutela, mesmo que seus programas não tenham um acordo pré-estabelecido de dupla diplomação.\n\nEm resumo, a cotutela é uma forma específica de dupla diplomação, voltada exclusivamente para a pós-graduação *stricto sensu* e caracterizada pela coorientação de pesquisa. A dupla diplomação, por sua vez, é um conceito mais amplo que pode abranger tanto graduação quanto pós-graduação, muitas vezes por meio de programas já existentes.",
+    "sources": [
+      "https://int.unb.br/br/estudante-unb/1-estude-no-exterior",
+      "https://int.unb.br/br/instrumentos-internacionais/tipos-de-parcerias",
+      "https://int.unb.br/br/estude-na-unb/dupla-diplomacao",
+      "https://int.unb.br/br/estudante-unb/b-dupla-diplomacao",
+      "https://int.unb.br/br/estude-na-unb/cotutela"
+    ]
+  },
+  {
+    "status": "✅",
+    "avaliacao": "Recuperou as DUAS páginas do ELAP (#873 graduação + #874 pós) e distinguiu os fluxos.",
+    "id": "B2",
+    "category": "B. Perguntas multi-fonte (juntar páginas diferentes)",
+    "question": "Qual a diferença entre o programa ELAP de graduação e o de pós-graduação?",
+    "expected": "FAQ #873 + FAQ #874",
+    "answer": "A principal diferença entre o programa ELAP para graduação e pós-graduação reside na forma como o estudante obtém a aceitação de uma universidade canadense, requisito essencial para pleitear a bolsa:\n\n**Para alunos de graduação:**\n\n*   É necessário participar do Edital INT/UnB de seleção de intercâmbio que possua vagas para o Canadá.\n*   O edital é publicado, em regra, uma vez a cada semestre (geralmente em fevereiro/março e julho/agosto), ou em edital específico, durante o mês de dezembro.\n*   Após ser selecionado no edital da INT e aceito pela universidade canadense parceira, esta envia o formulário para aplicação ao ELAP.\n\n**Para alunos de pós-graduação:**\n\n*   Não há um edital de seleção específico da INT para a mobilidade internacional de pós-graduação.\n*   O(A) aluno(a) entra em contato diretamente com a universidade de interesse, dentre as parceiras da UnB no Canadá, e verifica o que lhe é exigido para ser admitido.\n*   A INT auxilia na preparação e envio de documentos como nomeação, candidatura e histórico escolar.\n*   A bolsa ELAP para pós-graduação surge a partir de uma articulação do(a) próprio(a) estudante, ou pode ser resultado de um acordo entre seu orientador da UnB e um professor canadense.\n*   Após ser aceito(a) pela universidade canadense parceira, esta envia o formulário para aplicação ao ELAP.\n\nEm ambos os casos, o Programa ELAP – Emerging Leaders in the Americas Program – é um programa do governo do Canadá que oferece bolsas a estudantes não canadenses aceitos para um período de estudos em universidades canadenses.",
+    "sources": [
+      "https://int.unb.br/br/institucional/faq/874-o-que-e-e-como-funciona-o-programa-elap-de-pos-graduacao",
+      "https://int.unb.br/br/institucional/faq/873-o-que-e-e-como-funciona-o-programa-elap-de-graduacao",
+      "https://int.unb.br/br/estudante-unb/1-estude-no-exterior",
+      "https://int.unb.br/br/parcerias-internacionais/augm",
+      "https://int.unb.br/br/institucional/faq/868-como-funciona-o-programa-de-intercambio-de-pos-graduacao"
+    ]
+  },
+  {
+    "status": "✅",
+    "avaliacao": "Organizou bem as 3 opções (mobilidade/duplo diploma/cotutela) com \"quando usar cada uma\".",
+    "id": "B3",
+    "category": "B. Perguntas multi-fonte (juntar páginas diferentes)",
+    "question": "Sou estudante da UnB querendo estudar fora. Quais as opções eu tenho: mobilidade acadêmica, dupla diplomação ou cotutela? Quando usar cada uma?",
+    "expected": "Seção \"Estudante da UnB\" (mobilidade, dupla diplomação, cotutela)",
+    "answer": "Olá! Como estudante da UnB interessado em estudar no exterior, você tem as seguintes opções principais, conforme os instrumentos e programas de parceria da Universidade:\n\n**1. Mobilidade Acadêmica (Intercâmbio)**\n*   **O que é:** Programas baseados em convênios firmados com universidades estrangeiras, onde os estudantes de intercâmbio não pagam pelo aprendizado na instituição anfitriã. Cabe ao estudante arcar com os custos de ida e manutenção, embora alguns editais possam oferecer auxílios. As vagas são oferecidas por meio de edital.\n*   **Quando usar:** Para um período de estudos em uma instituição estrangeira, com o objetivo de vivenciar uma experiência acadêmica e cultural, sem necessariamente buscar uma titulação simultânea.\n*   **Tipos de programas específicos mencionados:**\n    *   **Mobilidade Cortes Supremas Mercosul:** Para estudantes de Graduação em Direito, com possibilidade de estágio.\n    *   **Programa Marca - Mercosul:** Atualmente para os cursos de Agronomia e Medicina Veterinária na UnB, com foco em mobilidade discente, docente e técnica.\n    *   **Erasmus+:** Programa da União Europeia que se expandiu para além da Europa, permitindo parcerias e mobilidade acadêmica (e para professores/servidores) com universidades não europeias. A UnB divulga editais quando convidada.\n    *   **ELAP (Emerging Leaders in the Americas Program):** Programa do governo do Canadá de bolsas para estudantes não canadenses aceitos em universidades do Canadá. A aceitação por uma instituição canadense ocorre após seleção em editais de intercâmbio publicados pela INT.\n    *   **Bolsas Santander:** Vários programas de bolsas oferecidos pelo Banco Santander, com candidatura direta na plataforma Santander Open Academy ou via edital da INT quando convidada.\n    *   **Capes/Brafitec:** Programa para financiar projetos entre universidades brasileiras e francesas na área de Engenharia, com seleção de estudantes de graduação em engenharias da UnB por meio de edital específico divulgado pela coordenação do curso.\n\n**2. Duplo Diploma (Diplomação Múltipla)**\n*   **O que é:** Acordos que permitem ao estudante cursar uma parte do curso no exterior e receber dois diplomas: tanto da UnB quanto da instituição parceira. É um instrumento que define as condições para obtenção simultânea de titulação, em nível de graduação ou de pós-graduação.\n*   **Quando usar:** Se você busca obter um diploma da UnB e, ao mesmo tempo, um diploma de uma instituição parceira estrangeira, seja na graduação ou pós-graduação.\n*   **Onde buscar informações sobre tramitação:** O interessado deve procurar o Decanato de Pós-graduação ou o Decanato de Graduação, conforme o nível do curso.\n\n**3. Cotutela**\n*   **O que é:** Instrumento para estudantes de pós-graduação *stricto sensu* que permite a titulação simultânea na Universidade de Brasília e em outra instituição internacional/estrangeira, por meio da coorientação por professor de instituição estrangeira.\n*   **Quando usar:** Exclusivamente para estudantes de pós-graduação que desejam obter o duplo diploma, da UnB e da parceira, com coorientação.\n*   **Onde buscar informações sobre tramitação:** O interessado deve procurar o Decanato de Pós-graduação.\n\nA INT atua na assinatura formal do instrumento de parceria, mas o acompanhamento e a gestão dos projetos acadêmicos são de responsabilidade do proponente na unidade acadêmica e da Diretoria de Projetos Acadêmicos (DPA/DPI).",
+    "sources": [
+      "https://int.unb.br/br/instrumentos-internacionais/tipos-de-parcerias",
+      "https://int.unb.br/br/estudante-unb/1-estude-no-exterior"
+    ]
+  },
+  {
+    "status": "✅",
+    "avaliacao": "Recuperou #879 + #881 e tratou emissão de documentos e envio à WES como processos relacionados, porém distintos.",
+    "id": "B4",
+    "category": "B. Perguntas multi-fonte (juntar páginas diferentes)",
+    "question": "Existe diferença nos documentos que preciso emitir em inglês dependendo do destino (WES ou outra instituição)?",
+    "expected": "FAQ #879 + FAQ #881",
+    "answer": "Com base nas informações fornecidas, o processo para obter documentos acadêmicos em inglês, que a Secretaria de Administração Acadêmica (SAA) pode emitir, é o mesmo, seja para envio à WES ou para outras necessidades.\n\nA SAA é a responsável por emitir esses documentos. Para ex-alunos formados antes de 1/2020, estão disponíveis em inglês o Histórico escolar, a Declaração de formado e a Declaração de tradução do diploma. Para ex-alunos formados a partir de 1/2020 e para alunos regulares, estão disponíveis o Histórico e a Declaração de tradução do diploma.\n\nO CONTEXTO não especifica que haja uma diferença nos tipos de documentos a serem emitidos em inglês para a WES em comparação com outras instituições. A SAA está cadastrada para enviar documentos à WES eletronicamente, e o processo de envio para a WES inclui a solicitação dos documentos em inglês.",
+    "sources": [
+      "https://int.unb.br/br/institucional/faq/881-como-envio-documentos-para-a-wes",
+      "https://int.unb.br/br/institucional/faq/879-sou-aluno-regular-como-faco-para-emitir-meus-documentos-em-ingles",
+      "https://int.unb.br/br/institucional/faq",
+      "https://int.unb.br/br/selecoes-int/externas/184-convocacoes/688-convocacao-121-int-2016",
+      "https://int.unb.br/br/184-convocacoes/688-convocacao-121-int-2016"
+    ]
+  },
+  {
+    "status": "✅",
+    "avaliacao": "Recusou (cardápio do RU é do ru.unb.br); não adivinhou.",
+    "id": "C1",
+    "category": "C. Fora do escopo (deve recusar educadamente)",
+    "question": "Qual o cardápio do restaurante universitário hoje?",
+    "expected": "Fora do escopo (é do ru.unb.br, não do INT)",
+    "answer": "Não encontrei informações sobre o cardápio do restaurante universitário na base de conhecimento do INT. Meu foco é responder a perguntas relacionadas aos assuntos da Secretaria de Assuntos Internacionais da UnB. Por favor, sinta-se à vontade para perguntar sobre os temas do INT.",
+    "sources": [
+      "https://int.unb.br/br/institucional/faleconosco",
+      "https://int.unb.br/br/institucional/equipe/207-coordenacao-geral-de-cooperacao-internacional/57-leonardo-freitas-de-souza-martins",
+      "https://int.unb.br/br/selecoes-int/abertas/1024-edital-int-n-5-2025-processo-de-pre-selecao-de-alunos-da-unb-ao-programa-escala-graduacao-para-mobilidade-no-2-2026",
+      "https://int.unb.br/br/institucional/equipe/208-area-administrativa/742-leonardo-de-paiva-souza",
+      "https://int.unb.br/br/institucional/atividades-int/1011-atividades-do-julho-setembro-2024"
+    ]
+  },
+  {
+    "status": "✅",
+    "avaliacao": "Não caiu na armadilha: distinguiu transferência interna de transferir curso ao exterior (#871); admitiu não ter o dado.",
+    "id": "C2",
+    "category": "C. Fora do escopo (deve recusar educadamente)",
+    "question": "Como faço pra trocar de curso dentro da UnB (transferência interna, não internacional)?",
+    "expected": "Fora do escopo (Diretoria de Ensino de Graduação)",
+    "answer": "As informações disponíveis no meu contexto se referem à transferência de estudantes do Programa de Estudantes-Convênio de Graduação (PEC-G) para a UnB, e não sobre como realizar uma troca de curso interna dentro da própria UnB.\n\nPortanto, não encontrei na minha base de conhecimento detalhes sobre o procedimento de transferência interna de curso (não internacional) na Universidade de Brasília. Para obter essa informação, sugiro que você entre em contato diretamente com o INT, utilizando o formulário de contato disponível em: https://int.unb.br/br/institucional/faleconosco.",
+    "sources": [
+      "https://int.unb.br/br/estude-na-unb/pec-g/transferencia-pec-g-para-a-unb",
+      "https://int.unb.br/br/estude-na-unb/pec-g/transferencia-pec-g-para-a-unb?menu=669",
+      "https://int.unb.br/br/institucional/faq"
+    ]
+  },
+  {
+    "status": "✅",
+    "avaliacao": "Recusa simples e direta (previsão do tempo), sem forçar relação com o INT.",
+    "id": "C3",
+    "category": "C. Fora do escopo (deve recusar educadamente)",
+    "question": "Qual é a previsão do tempo em Brasília hoje?",
+    "expected": "Totalmente fora do escopo",
+    "answer": "Não tenho informações sobre a previsão do tempo em Brasília. Por favor, me pergunte sobre temas relacionados à Secretaria de Assuntos Internacionais da UnB (INT).",
+    "sources": [
+      "https://int.unb.br/br/institucional/equipe/207-coordenacao-geral-de-cooperacao-internacional",
+      "https://int.unb.br/br/institucional/equipe/208-area-administrativa",
+      "https://int.unb.br/br/selecoes-int/convencerradas/767-convocacao-n-1-int-2020",
+      "https://int.unb.br/br/institucional/equipe/207-coordenacao-geral-de-cooperacao-internacional/57-leonardo-freitas-de-souza-martins",
+      "https://int.unb.br/br/institucional/equipe/207-coordenacao-geral-de-cooperacao-internacional/312-diego-de-tassio-silva"
+    ]
+  },
+  {
+    "status": "✅",
+    "avaliacao": "Admitiu não ter o tempo médio (não consta no FAQ 895) e indicou a SAA, sem inventar número.",
+    "id": "D1",
+    "category": "D. Armadilhas / ambíguas (deve admitir não saber)",
+    "question": "Quanto tempo demora, em média, pra revalidar um diploma estrangeiro na UnB?",
+    "expected": "Dado (prazo médio) provavelmente não especificado no FAQ #895",
+    "answer": "Não encontrei informações sobre o tempo médio para revalidar um diploma estrangeiro na UnB na base de conhecimento fornecida.\n\nO setor responsável pela revalidação e reconhecimento de diploma estrangeiro na UnB é a Secretaria de Administração Acadêmica (SAA). Você pode entrar em contato com eles para obter essa informação:\n\n*   **Telefone:** (61) 3107-3731\n*   **Site:** https://rrde.unb.br/\n\nPara dúvidas não cobertas pelo nosso conteúdo, você também pode entrar em contato direto com o INT pelo link: https://int.unb.br/br/institucional/faleconosco.",
+    "sources": [
+      "https://int.unb.br/br/institucional/faq/895-como-faco-para-revalidar-meu-diploma-do-exterior-na-unb",
+      "https://int.unb.br/br/institucional/faq",
+      "https://int.unb.br/br/institucional/faq/877-como-transformo-meus-creditos-em-ects",
+      "https://int.unb.br/br/estude-na-unb/refugiados"
+    ]
+  },
+  {
+    "status": "✅",
+    "avaliacao": "Corrigiu a premissa: cotutela é só para pós-graduação stricto sensu. Sem vazamento.",
+    "id": "D2",
+    "category": "D. Armadilhas / ambíguas (deve admitir não saber)",
+    "question": "Posso fazer cotutela em qualquer curso de graduação?",
+    "expected": "Cotutela é mecanismo de pós-graduação; premissa da pergunta é incorreta",
+    "answer": "Não, a cotutela é uma modalidade de cooperação internacional destinada a estudantes regularmente matriculados na **Pós-Graduação stricto sensu (Mestrado ou Doutorado)**. Ela permite obter um título de Mestre ou Doutor emitido pela UnB e por uma instituição estrangeira simultaneamente.\n\nA INT/UnB, por exemplo, lança editais apenas para mobilidade de graduação, enquanto o intercâmbio para pós-graduação e a cotutela são direcionados a estudantes de mestrado ou doutorado.",
+    "sources": [
+      "https://int.unb.br/br/estude-na-unb/cotutela",
+      "https://int.unb.br/br/estude-na-unb/dupla-diplomacao",
+      "https://int.unb.br/br/estudante-unb/b-dupla-diplomacao",
+      "https://int.unb.br/br/estudante-unb/cotutela",
+      "https://int.unb.br/br/institucional/faq/868-como-funciona-o-programa-de-intercambio-de-pos-graduacao"
+    ]
+  },
+  {
+    "status": "✅",
+    "avaliacao": "VERIFICADO: não fundiu Padrinhos com Bolsa PEC-PG; \"sem bolsa, 60h de créditos de extensão\" bate com a página.",
+    "id": "D3",
+    "category": "D. Armadilhas / ambíguas (deve admitir não saber)",
+    "question": "O programa de Padrinhos Internacionais dá bolsa para o padrinho/madrinha?",
+    "expected": "Mistura Programa de Padrinhos Internacionais ≠ Bolsa PEC-PG (itens de menu adjacentes)",
+    "answer": "Não, o Programa de Padrinhos Internacionais não oferece bolsa para os padrinhos ou madrinhas. Os voluntários que participam do programa recebem 60 horas de créditos em atividades de extensão pela tutoria. O Padrinho é um estudante voluntário.",
+    "sources": [
+      "https://int.unb.br/br/estudante-unb/padrinhos",
+      "https://int.unb.br/br/estude-na-unb/padrinhos-internacionais",
+      "https://int.unb.br/br/institucional/faq/869-ha-alguma-programa-de-mobilidade-com-bolsa"
+    ]
+  },
+  {
+    "status": "✅",
+    "avaliacao": "CORRIGIDO e confirmado ponta-a-ponta: roteamento determinístico por seção trouxe a página /abertas; o bot lista as 5 seleções abertas (AUGM, ESCALA, Curso de Verão, Botín, PGD) com datas.",
+    "id": "E1",
+    "category": "E. Conteúdo dinâmico (valida o re-scraping)",
+    "question": "Quais seleções estão abertas no INT atualmente?",
+    "expected": "Refletir /selecoes-int/abertas (muda com frequência)",
+    "answer": "Atualmente, as seguintes seleções estão abertas no INT:\n\n*   **EDITAL 6/2026/INT - Jornadas de Jovens Pesquisadores da AUGM** (aberto em 18 de Junho de 2026)\n*   **EDITAL INT N. 5/2025 - PROCESSO DE PRÉ-SELEÇÃO DE ALUNOS DA UNB AO PROGRAMA ESCALA GRADUAÇÃO PARA MOBILIDADE NO 2/2026** (aberto em 17 de Abril de 2026)\n*   **Edital Nº 4/INT/2026 - CURSO DE VERÃO NA UNIVERSIDAD MILITAR NUEVA GRANADA** (aberto em 08 de Abril de 2026)\n*   **Programa para o Fortalecimento da Função Pública na América Latina - Fundação Botín 2026** (divulgação e orientações em 28 de Março de 2025)\n*   **Seleção para o Programa de Gestão e Desempenho (PGD) dos servidores da INT** (aberto em 12 de Novembro de 2025)",
+    "sources": [
+      "https://int.unb.br/br/selecoes-int/abertas",
+      "https://int.unb.br/br/selecoes-int/abertas/1018-selecao-para-o-programa-de-gestao-e-desempenho-pgd-dos-servidores-da-int",
+      "https://int.unb.br/br/selecoes-int/abertas/1022-botin-2026",
+      "https://int.unb.br/br/selecoes-int/abertas/1023-edital-4",
+      "https://int.unb.br/br/selecoes-int/abertas/1024-edital-int-n-5-2025-processo-de-pre-selecao-de-alunos-da-unb-ao-programa-escala-graduacao-para-mobilidade-no-2-2026",
+      "https://int.unb.br/br/selecoes-int/abertas/1026-edital-6-2026-int-jornadas-de-jovens-pesquisadores-da-augm",
+      "https://int.unb.br/br/institucional/faq/872-quais-sao-os-criterios-de-selecao-nos-editais-da-int",
+      "https://int.unb.br/br/institucional/atividades-int/976-atividades-do-trimestre-jul-set-2023"
+    ]
+  },
+  {
+    "status": "✅",
+    "avaliacao": "Usou o índice /convencerradas como referência, marcando claramente como \"Encerradas\"; não incentivou inscrição em algo encerrado.",
+    "id": "E2",
+    "category": "E. Conteúdo dinâmico (valida o re-scraping)",
+    "question": "Existe alguma seleção do INT com inscrições encerradas recentemente que eu possa usar como referência para a próxima edição?",
+    "expected": "Refletir /selecoes-int/convencerradas",
+    "answer": "O contexto fornecido apresenta uma lista de seleções sob o título \"Encerradas\". As seleções com as datas mais recentes nesta lista são:\n\n*   **12 de Maio de 2026:** Edital Nº 2/INT/2026 - Estágio Presencial na Secretaria de Assuntos Internacionais.\n*   **05 de Agosto de 2025:** Tutoria de Alunos Internacionais 2/2025. Para este processo, o prazo de inscrição é até 08 de agosto de 2025.\n*   **28 de Março de 2025:** Edital INT N. 1/2026 - Processo de Pré-seleção de Alunos de Graduação da UnB ao Intercâmbio para Mobilidade no período de agosto a dezembro de 2026.\n\nVocê pode consultar os detalhes desses editais para ter uma referência para futuras edições.",
+    "sources": [
+      "https://int.unb.br/br/selecoes-int/convencerradas"
+    ]
+  }
+]

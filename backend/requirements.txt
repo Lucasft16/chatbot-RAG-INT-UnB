@@ -1,0 +1,24 @@
+# --- API ---
+fastapi>=0.115
+uvicorn[standard]>=0.30
+
+# --- Scraping ---
+requests>=2.32
+beautifulsoup4>=4.12
+lxml>=5.0
+pypdf>=4.0
+
+# --- RAG / Vector store ---
+chromadb>=0.5
+
+# --- Provedor de LLM / Embeddings (Gemini) ---
+# Isolado em rag/generator.py e ingestion/embeddings.py para troca futura.
+google-genai>=0.3
+
+# --- Config ---
+pydantic>=2.0
+pydantic-settings>=2.0
+python-dotenv>=1.0'
+
+# --- Testes ---
+pytest>=8.0

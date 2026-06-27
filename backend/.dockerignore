@@ -1,0 +1,19 @@
+# Reduz o contexto de build (não afeta o que o Dockerfile COPY explicitamente).
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Dados brutos/processados — não vão para a imagem.
+data/
+
+# Não necessários em runtime.
+tests/
+.env
+.env.example
+*.md
+Dockerfile
+.dockerignore
