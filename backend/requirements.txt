@@ -18,7 +18,7 @@ google-genai>=0.3
 # --- Config ---
 pydantic>=2.0
 pydantic-settings>=2.0
-python-dotenv>=1.0'
+python-dotenv>=1.0
 
 # --- Testes ---
 pytest>=8.0
